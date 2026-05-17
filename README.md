@@ -58,7 +58,7 @@ Created important business metrics including:
 # 📊 Dashboard Preview
 
 ## 📱 Mobile Sales Analytics Dashboard
-![Mobile Sales Dashboard](https://raw.githubusercontent.com/dipendra-pardhi/YOUR-REPO-NAME/main/Dashboard%20Images/mobile-sales-dashboard.png)
+![Mobile Sales Dashboard](https://github.com/dipendra-pardhi/Mobile-Sales-Analytics-Dashboard/blob/main/Image/image.png)
 
 ---
 
